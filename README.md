@@ -1,6 +1,6 @@
 # Redis-GO
 
-**Redis-GO** is a high-performance, multi-threaded Redis clone written in Go. It implements the core Redis protocol (RESP) and features a variety of data structures, I/O multiplexing for concurrency, and advanced memory management strategies like LRU eviction.
+**Redis-GO** is a multi-threaded Redis written in Go. It implements the core Redis protocol (RESP) and features a variety of data structures, I/O multiplexing for concurrency, and advanced memory management strategies like LRU eviction.
 
 ## Features
 
